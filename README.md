@@ -25,6 +25,14 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 # Step
 
+Buat Project laravel baru
+
+```
+Laravel new nama-project
+```
+
+
+
 
 ## License
 

@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Laravel 6 - Login with Google Account Example - ItSolutionStuuf.com</div>
+                <div class="card-header">Laravel 8 - Login with Google Account</div>
   
                 <div class="card-body">
                     <form method="POST" action="{{ route('login') }}">
@@ -29,7 +29,7 @@
                             <label for="password" class="col-md-4 col-form-label text-md-right">{{ __('Password') }}</label>
   
                             <div class="col-md-6">
-                                <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
+                                <input id="password" type="password" class="form-control mb-3 @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
   
                                 @error('password')
                                     <span class="invalid-feedback" role="alert">
