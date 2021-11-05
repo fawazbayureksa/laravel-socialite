@@ -31,6 +31,15 @@ Buat Project laravel baru
 Laravel new nama-project
 ```
 
+Pastikan sudah menginstal Composer 
+
+```
+composer require laravel/socialite
+```
+
+
+
+
 
 
 
