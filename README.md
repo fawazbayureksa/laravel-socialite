@@ -44,7 +44,7 @@ Buat Google App pada <a href="https://console.cloud.google.com/">Google Console<
     - Pilih OAuth client ID 
     - Buat App
 
-Atur Config/services
+Atur Config/services.php
 
 
 Install laravel ui
@@ -53,7 +53,17 @@ Install laravel ui
 composer require laravel/ui
 ```
 
+install ui Bootstrap auth
 
+```
+php artisan ui bootstrap --auth
+```
+
+jalankan Npm
+
+```
+npm install && npm run dev
+```
 
 
 
