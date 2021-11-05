@@ -37,6 +37,23 @@ Pastikan sudah menginstal Composer
 composer require laravel/socialite
 ```
 
+Buat Google App pada <a href="https://console.cloud.google.com/">Google Console</a>
+
+    - Buka Credential 
+    - Create Credential 
+    - Pilih OAuth client ID 
+    - Buat App
+
+Atur Config/services
+
+
+Install laravel ui
+
+```
+composer require laravel/ui
+```
+
+
 
 
 
