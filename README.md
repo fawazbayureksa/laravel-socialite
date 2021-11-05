@@ -65,8 +65,9 @@ jalankan Npm
 npm install && npm run dev
 ```
 
-
-
+<p align="center">
+Thanks To <a href="https://www.itsolutionstuff.com/post/laravel-6-socialite-login-with-google-gmail-accountexample.html">www.itsolutionstuff.com</a>
+</p>
 
 
 
